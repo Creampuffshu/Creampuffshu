@@ -1,4 +1,4 @@
-# Creampuffshu
+![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&section=header&text=Creampuffshu&fontSize=90&animation=twinkling)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
@@ -8,7 +8,6 @@
 <!--
 **Creampuffshu/Creampuffshu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![CodeForces Profile](https://cf.leed.at?id=creampuffshu)](https://codeforces.com/profile/creampuffshu)
 
 
 
