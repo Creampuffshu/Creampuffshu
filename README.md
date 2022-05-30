@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&section=header&text=Creampuffshu&fontSize=90&animation=twinkling)
+# Creampuffshu!
 
 ![Creampuffshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Creampuffshu&show_icons=true&theme=radical)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=creampuffshu)](https://solved.ac/creampuffshu)
