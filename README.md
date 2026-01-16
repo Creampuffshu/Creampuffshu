@@ -1,6 +1,5 @@
 # Creampuffshu!
 
-![Creampuffshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Creampuffshu&show_icons=true&theme=radical)
 # PS
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=creampuffshu)](https://solved.ac/creampuffshu)
 [![CodeForces Profile](https://cf.leed.at?id=creampuffshu)](https://codeforces.com/profile/creampuffshu)
